@@ -17,7 +17,7 @@ Streamlit Expense Tracker — это веб-приложение, разрабо
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <ссылка_на_ваш_репозиторий>
+   https://github.com/Kloym/some_mini_project
    cd STREAMLIT
 2. **Установите зависимости через poetry:**
     poetry install
